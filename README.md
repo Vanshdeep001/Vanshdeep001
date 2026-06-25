@@ -1,9 +1,13 @@
 <!-- ====================================================== -->
 <!--          PREMIUM ANIMATED HEADER (NEW)                 -->
 <!-- ====================================================== -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00CED1&height=210&section=header&text=Vansh%20Deep%20Srivastava&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20Real-Time%20Systems&descAlignY=56&descSize=16" />
-</a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=46&pause=10000&color=8A2BE2&center=true&vCenter=true&width=900&height=90&lines=Vansh+Deep+Srivastava" alt="name" />
+
+<sub><b>Full Stack Developer · Cloud & DevOps · Real-Time Systems</b></sub>
+
+</div>
 
 <!-- ====================================================== -->
 <!--          PREMIUM TYPING ANIMATION (NEW)                -->
@@ -222,11 +226,9 @@ Built secure REST APIs with OAuth 2.0, bcrypt & JWT sessions, plus a real-time l
 <!-- ====================================================== -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Trophies & Certifications
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Certifications
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vanshdeep001&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/AWS-Intro_to_Generative_AI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
