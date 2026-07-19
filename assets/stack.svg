@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Tech stack">
+  <rect x="0.5" y="0.5" width="999" height="359" rx="22" fill="#0B0B0F" stroke="#1A1A1F"/>
+
+  <text x="40" y="62" font-family="'JetBrains Mono','Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="2" fill="#BEF264">// stack</text>
+  <line x1="40" y1="80" x2="960" y2="80" stroke="#17171B"/>
+  <line x1="235" y1="100" x2="235" y2="330" stroke="#17171B"/>
+
+  <g font-family="'JetBrains Mono','Segoe UI',Arial,sans-serif">
+    <!-- row: languages -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+      <text x="210" y="126" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2" fill="#BEF264">LANG</text>
+      <text x="262" y="126" font-size="17" fill="#EDEDED">TypeScript<tspan fill="#3f3f46">  ·  </tspan>JavaScript<tspan fill="#3f3f46">  ·  </tspan>Python<tspan fill="#3f3f46">  ·  </tspan>C++<tspan fill="#3f3f46">  ·  </tspan>Java</text>
+    </g>
+    <!-- row: web -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/>
+      <text x="210" y="170" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2" fill="#BEF264">WEB</text>
+      <text x="262" y="170" font-size="17" fill="#EDEDED">React<tspan fill="#3f3f46">  ·  </tspan>Next.js<tspan fill="#3f3f46">  ·  </tspan>Tailwind</text>
+    </g>
+    <!-- row: server -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.35s" fill="freeze"/>
+      <text x="210" y="214" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2" fill="#BEF264">SERVER</text>
+      <text x="262" y="214" font-size="17" fill="#EDEDED">Node<tspan fill="#3f3f46">  ·  </tspan>Express<tspan fill="#3f3f46">  ·  </tspan>WebSockets<tspan fill="#3f3f46">  ·  </tspan>WebRTC</text>
+    </g>
+    <!-- row: data -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/>
+      <text x="210" y="258" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2" fill="#BEF264">DATA</text>
+      <text x="262" y="258" font-size="17" fill="#EDEDED">PostgreSQL<tspan fill="#3f3f46">  ·  </tspan>MongoDB<tspan fill="#3f3f46">  ·  </tspan>Redis</text>
+    </g>
+    <!-- row: cloud -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+      <text x="210" y="302" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2" fill="#BEF264">CLOUD</text>
+      <text x="262" y="302" font-size="17" fill="#EDEDED">AWS<tspan fill="#3f3f46">  ·  </tspan>Docker<tspan fill="#3f3f46">  ·  </tspan>Kubernetes<tspan fill="#3f3f46">  ·  </tspan>Terraform</text>
+    </g>
+  </g>
+</svg>
